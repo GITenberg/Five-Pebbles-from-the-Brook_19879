@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6398
     wikipedia: http://en.wikipedia.org/wiki/George_Bethune_English
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19879#Five-Pebbles-from-the-Brook
 gutenberg_issued: '2006-11-20'
 gutenberg_type: Text
 identifiers:
